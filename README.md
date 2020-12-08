@@ -1,0 +1,1 @@
+# batch_image_resize_retouch_and_convertion_script
